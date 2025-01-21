@@ -11,7 +11,7 @@ import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 
 import { FaChevronRight, FaChevronLeft, FaEnvelope } from "react-icons/fa";
-import WhyChooseMe from "./pages/why";
+import WhyChooseMe from "./pages/WhyChooseMe";
 
 const App = () => {
   const [isDarkMode, setIsDarkMode] = useState(false);
